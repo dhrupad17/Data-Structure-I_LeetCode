@@ -12,7 +12,8 @@
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
 | DAY1 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY1P1.md) |
 |  | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY1P2.md) |
-
+| DAY2 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY2P1.md) |
+|  | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |  `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY2P2.md) |
 
 
 ## 🛠 Skills

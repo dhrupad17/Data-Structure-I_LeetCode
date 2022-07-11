@@ -14,7 +14,8 @@
 |  | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY1P2.md) |
 | DAY2 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY2P1.md) |
 |  | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |  `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY2P2.md) |
-
+| DAY3 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY3P1.md) |
+|  | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY3P2.md) |
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`

@@ -18,6 +18,8 @@
 |  | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY3P2.md) |
 | DAY4 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY4P1.md) |
 |  | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY4P2.md) |
+| DAY5 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY5P1.md) |
+|  | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY5P2.md) |
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`

@@ -23,6 +23,9 @@
 | DAY6 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY6P1.md) |
 |  | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY6P2.md) |
 |  | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY6P3.md) |
+| DAY7 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY7P1.md) |
+|  | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY7P2.md) | 
+|  | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY7P3.md) |
 
 
 

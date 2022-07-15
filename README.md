@@ -20,6 +20,12 @@
 |  | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY4P2.md) |
 | DAY5 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY5P1.md) |
 |  | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY5P2.md) |
+| DAY6 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY6P1.md) |
+|  | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY6P2.md) |
+|  | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY6P3.md) |
+
+
+
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`

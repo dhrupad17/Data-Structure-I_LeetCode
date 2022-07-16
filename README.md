@@ -26,7 +26,8 @@
 | DAY7 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY7P1.md) |
 |  | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY7P2.md) | 
 |  | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY7P3.md) |
-
+| DAY8 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY8P1.md) |
+|  | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY8P2.md) |
 
 
 

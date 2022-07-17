@@ -28,7 +28,8 @@
 |  | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY7P3.md) |
 | DAY8 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY8P1.md) |
 |  | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY8P2.md) |
-
+| DAY9 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY9P1.md) |
+|  | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY9P2.md) | 
 
 
 ## 🛠 Skills

@@ -30,7 +30,9 @@
 |  | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY8P2.md) |
 | DAY9 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY9P1.md) |
 |  | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY9P2.md) | 
-
+| DAY10 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY10P1.md) | 
+|  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY10P2.md) |
+|  | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY10P3.md) |
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`

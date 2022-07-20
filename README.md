@@ -36,6 +36,8 @@
 | DAY11 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY11P1.md) |
 |  | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY11P2.md) |
 |  | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY11P3.md) |
+| DAY12 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY12P1.md) |
+|  | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY12P2.md) |
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`

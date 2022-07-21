@@ -38,7 +38,8 @@
 |  | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY11P3.md) |
 | DAY12 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY12P1.md) |
 |  | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY12P2.md) |
-
+| DAY13 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY13P1.md) | 
+|  | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY13P2.md) |
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`
 
